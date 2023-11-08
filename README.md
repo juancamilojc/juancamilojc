@@ -17,18 +17,19 @@
   </a>
 </div><br>
 
+
 <div align = "center">
   <img width = "500" align="center" src = "https://github-readme-stats.vercel.app/api?username=juancamilojc&line_height=25&count_private=true&show_icons=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=20&theme=dark&locale=pt-br" alt = "GitHub Stats" />
+</div><br>
+
+<div align = "center">
+  <img width = "300" align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&hide=hlsl,shaderlab&layout=donut-vertical&&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=20&theme=dark&locale=pt-br" alt = "Top Linguagens" />
 </div><br>
 
 <div align = "center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=juancamilojc&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=60%2C171717%2C08203E&ring=FFFFFF&fire=00FF87&currStreakLabel=00FF87&sideNums=00FF87" alt="GitHub Streak" />
   </a>
-</div><br>
-
-<div align = "center">
-  <img width = "300" align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&hide=hlsl,shaderlab&layout=donut-vertical&&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=20&theme=dark&locale=pt-br" alt = "Top Linguagens" />
 </div><br>
 
 
