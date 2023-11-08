@@ -15,17 +15,17 @@
 <br>  
 <div style = "flex-flow: row wrap; text-align: center;">
   <img style = "border-radius: 2rem;" alt = "Estatísticas" height = "200" width = "400" align="center" src = "https://github-readme-stats.vercel.app/api?username=juancamilojc&line_height=25&count_private=true&show_icons=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=30&theme=dark&locale=pt-br" />
-  <img style = "border-radius: 2rem;" alt = "Linguagens" heigth = "200" width = "355" align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&hide=hlsl,shaderlab&layout=compact&&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=0&theme=dark&locale=pt-br" />
+  <img style = "border-radius: 2rem;" alt = "Linguagens" heigth = "200" width = "355" align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&hide=hlsl,shaderlab&layout=compact&&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=20&theme=dark&locale=pt-br" />
 </div>  
   
 
 <br>
 <div style = "flex-flow: row wrap; text-align: center;">
   <a style = "text-decoration: none;" href="https://github.com/gilzamir18/gamemania">
-    <img style = "border-radius: 2rem 1rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gilzamir18&repo=gamemania&show_owner=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=0&theme=dark&locale=pt-br" />
+    <img style = "border-radius: 2rem 1rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gilzamir18&repo=gamemania&show_owner=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=15&theme=dark&locale=pt-br" />
   </a>
   <a style = "text-decoration: none;" href="https://github.com/juancalimojc/projeto-login">
-    <img style = "border-radius: 2rem 1rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancamilojc&repo=projeto-login&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203e&hide_border=true&border_radius=0&theme=dark&locale=pt-br" />
+    <img style = "border-radius: 2rem 1rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juancamilojc&repo=projeto-login&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203e&hide_border=true&border_radius=15&theme=dark&locale=pt-br" />
   </a>
 </div>  
   
