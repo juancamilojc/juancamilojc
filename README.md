@@ -52,7 +52,7 @@
 	<!--- GitHub Streak
 	<img width = "450" src="https://streak-stats.demolab.com?user=juancamilojc&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=60%2C171717%2C08203E&ring=FFFFFF&fire=00FF87&currStreakLabel=00FF87&sideNums=00FF87" alt="GitHub Streak" /><br/>
 	--->
-	<img src = "https://github-readme-activity-graph.vercel.app/graph?username=juancamilojc&hide_border=true&bg_color=60,171717,08203E&color=FFFFFF&line=00ff87&point=00ff87&area_color=00ff87&title_color=FFFFFF&area=true" alt = "Gráfico" />
+	<img src = "https://github-readme-activity-graph.vercel.app/graph?username=juancamilojc&hide_border=true&theme=github-dark&color=FFFFFF&line=00ff87&point=00ff87&area_color=00ff87&title_color=FFFFFF&area=true" alt = "Gráfico" />
 </div><br/>
 
 
