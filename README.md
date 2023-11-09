@@ -1,12 +1,11 @@
 <!--- Intro --->
 
-<div id = "header" align = "center">
+<div id = "header" align = "left">
 	<samp>
 		<h1>&gt; Olá, eu sou o Juan! 👋🙃</h1>
 		<p>💻 Estudante de <b>Ciências da Computação</b> na <b>UVA</b> (<i>Universidade Estadual Vale do Acaraú</i>).</p>
 	</samp>
-</div><br/>
-
+</div>
 
 <div id = "badges" align = "center">
 	<a href="https://github.com/juancamilojc">
@@ -26,8 +25,12 @@
 
 <!--- About --->
 
-<div id = "about" align = "center">
+## Sobre mim
+
+<div id = "about" align = "left">
+	<!---
 	<h2>Sobre mim</h2>
+	--->
 	<p>🚀 Gosto de programar e aprender tecnologias novas.</p>
 	<p>🎨 Me interesso por design.</p>
 	<P>📝 Atualmente estudando <b>C#</b>.</p>
@@ -36,13 +39,17 @@
 
 <!--- Stats --->
 
+## Estatísticas
+
 <div id = "stats" align = "center">
+	<!---
 	<h2>Estatísticas</h2>
+	--->
 	<a href="https://github.com/juancamilojc">
 		<img src = "https://github-readme-stats.vercel.app/api?username=juancamilojc&line_height=25&count_private=true&show_icons=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=25&theme=dark&locale=pt-br" alt = "GitHub Stats" width="50.25%" />
 		<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&hide=hlsl,shaderlab&layout=compact&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=15&theme=dark&locale=pt-br" alt = "Top Linguagens" width="45%" /><br/>
 		<!--- GitHub Streak
-		<img src="https://streak-stats.demolab.com?user=juancamilojc&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=60%2C171717%2C08203E&ring=FFFFFF&fire=00FF87&currStreakLabel=00FF87&sideNums=00FF87" alt="GitHub Streak" width = "50%" />
+		<img src="https://streak-stats.demolab.com?user=juancamilojc&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=60%2C171717%2C08203E&ring=FFFFFF&fire=00FF87&currStreakLabel=00FF87&sideNums=00FF87" alt="GitHub Streak" width = "70%" />
 		--->
 		<img src = "https://github-readme-activity-graph.vercel.app/graph?username=juancamilojc&hide_border=true&border_radius=15&theme=github-dark&custom_title=Contribuições%20no%20GitHub&bg_color=60,171717,08203E&color=FFFFFF&line=00ff87&point=00ff87&area_color=00ff87&title_color=FFFFFF&area=true" alt = "Gráfico de Contrinuição" width = "80%" />
 	</a>
@@ -51,8 +58,12 @@
 
 <!--- Repos --->
 
+## Repositórios
+
 <div id = "repos" align = "center">
+	<!---
 	<h2>Repositórios</h2>
+	--->
 	<a href = "https://github.com/gilzamir18/gamemania" target = "_blank">
 		<img src = "https://github-readme-stats.vercel.app/api/pin/?username=gilzamir18&repo=gamemania&show_owner=true&hide_border=true&border_radius=20&theme=dark&bg_color=60,171717,08203E&icon_color=00ff87&locale=pt-br" alt = "GameMania Repo" width = "49.5%" />
 	</a>
@@ -65,15 +76,21 @@
 	<a href = "https://github.com/juancamilojc/cpp" target="_blank">
 		<img src = "https://github-readme-stats.vercel.app/api/pin/?username=juancamilojc&repo=cpp&hide_border=true&border_radius=20&theme=dark&bg_color=60,171717,08203E&icon_color=00ff87&locale=pt-br" alt = "C++ Estudos Repo" width = "49.5%" />
 	</a><br/>
-  	<a href="https://github.com/juancamilojc?tab=repositories" target="_blank">
-		<img src = "https://img.shields.io/badge/-Todos-1B6CCF?style=for-the-badge&logo=koding&logoColor=white" alt = "Todos os Repositórios" />
-	</a>
+	<p align = "left">
+		<a href="https://github.com/juancamilojc?tab=repositories" target="_blank">
+			<img src = "https://img.shields.io/badge/-Todos-1B6CCF?style=for-the-badge&logo=koding&logoColor=white" alt = "Todos os Repositórios" width = "10%" />
+		</a>
+	</p>
 </div><br/>
 
 <!--- Tech --->
 
+## Tecnologias
+
 <div id = "tech" align = "center">
+	<!---
 	<h2>Tecnologias</h2>
+	--->
 	<img src="https://skillicons.dev/icons?i=html,css,cpp,cs&theme=dark&perline=4" alt = "Tecnologias Usadas" /><br/>
 	<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "Editores Usadas" />
 </div></br>
