@@ -48,9 +48,7 @@
 	<a href="https://github.com/juancamilojc">
 		<img src = "https://github-readme-stats.vercel.app/api?username=juancamilojc&line_height=25&count_private=true&show_icons=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=25&theme=dark&locale=pt-br" alt = "GitHub Stats" width="50.25%" />
 		<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&hide=hlsl,shaderlab&layout=compact&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=15&theme=dark&locale=pt-br" alt = "Top Linguagens" width="45%" /><br/>
-		<!--- GitHub Streak
-		<img src="https://streak-stats.demolab.com?user=juancamilojc&theme=dark&hide_border=true&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=60%2C171717%2C08203E&ring=FFFFFF&fire=00FF87&currStreakLabel=00FF87&sideNums=00FF87" alt="GitHub Streak" width = "70%" />
-		--->
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamilojc&theme=dark&stroke=ffffff&background=60%2c171717%2c08203e&ring=00ff87&fire=00ff87&currStreakNum=ffffff&currStreakLabel=00FF87&sideNums=00ff87&sideLabels=ffffff&dates=&hide_border=true&border_radius=20&locale=pt-br" alt = "GitHub Streak" width = 70% />
 		<img src = "https://github-readme-activity-graph.vercel.app/graph?username=juancamilojc&hide_border=true&border_radius=15&theme=github-dark&custom_title=Contribuições%20no%20GitHub&bg_color=60,171717,08203E&color=FFFFFF&line=00ff87&point=00ff87&area_color=00ff87&title_color=FFFFFF&area=true" alt = "Gráfico de Contrinuição" width = "80%" />
 	</a>
 </div><br/>
