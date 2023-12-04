@@ -39,7 +39,7 @@
 ## Repositórios
 
 <div id = "repos" align = "center">
-<a href = "https://github.com/gilzamir18/gamemania" target = "_blank"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=gilzamir18&repo=gamemania&show_owner=true&hide_border=true&border_radius=20&theme=dark&bg_color=60,171717,08203E&icon_color=00ff87&locale=pt-br" alt = "GameMania Repo" width = 49.5% /></a>
+<a href = "https://github.com/juancamilojc/pong-game" target = "_blank"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=juancamilojc&repo=pong-game&hide_border=true&border_radius=20&theme=dark&bg_color=60,171717,08203E&icon_color=00ff87&locale=pt-br" alt = "Pong-Game Repo" width = 49.5% /></a>
 <a href = "https://juancamilojc.github.io/projeto-android/" target = "_blank"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=juancamilojc&repo=projeto-android&hide_border=true&border_radius=20&theme=dark&bg_color=60,171717,08203E&icon_color=00ff87&locale=pt-br" alt = "Android History Site Repo" width = 49.5% /></a><br/>
 <a href = "https://juancamilojc.github.io/projeto-login/" target = "_blank"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=juancamilojc&repo=projeto-login&hide_border=true&border_radius=20&theme=dark&bg_color=60,171717,08203E&icon_color=00ff87&locale=pt-br" alt = "Login Page Repo" width = 49.5% /></a>
 <a href = "https://github.com/juancamilojc/cpp" target="_blank"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=juancamilojc&repo=cpp&hide_border=true&border_radius=20&theme=dark&bg_color=60,171717,08203E&icon_color=00ff87&locale=pt-br" alt = "C++ Estudos Repo" width = 49.5% /></a><br/>
