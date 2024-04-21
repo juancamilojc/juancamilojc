@@ -22,7 +22,7 @@
 
 - 🚀 Gosto de programar e aprender novas tecnologias.  
 - 🎨 Me interesso por **UI Design** e **Front-End**.  
-- 🧠 Atualmente estudando **C#**.  
+- 🧠 Atualmente estudando **React**, **Material UI** e **Typescript**.  
 <br/>
 
 ## Estatísticas
