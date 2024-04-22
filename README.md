@@ -29,8 +29,8 @@
 
 <div id = "github_stats" align = "center">
 <a href="https://github.com/juancamilojc" target="_blank" rel="noreferrer">
-<img src = "https://github-readme-stats.vercel.app/api?username=juancamilojc&count_private=true&show_icons=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=25&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" alt = "juancamilojc's GitHub stats" width=50.75% />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&langs_count=5&hide=hlsl,shaderlab&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=15&locale=pt-br&custom_title=Top%20%Linguagens" alt="Top Linguagens" width = 45.5% />
+<img src = "https://github-readme-stats.vercel.app/api?username=juancamilojc&count_private=true&show_icons=true&icon_color=00ff87&rank_icon=github&ring_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=25&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub" alt = "juancamilojc's GitHub stats" width=52.5% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancamilojc&langs_count=5&hide=hlsl,shaderlab&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=00ff87&bg_color=60,171717,08203E&hide_border=true&border_radius=20&locale=pt-br&custom_title=Top%20%Linguagens" alt="Top Linguagens" width = 40% />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamilojc&theme=dark&stroke=ffffff&background=60%2c171717%2c08203e&ring=00ff87&fire=00ff87&currStreakNum=ffffff&currStreakLabel=00FF87&sideNums=00ff87&sideLabels=ffffff&dates=&hide_border=true&border_radius=20&locale=pt-br" alt = "GitHub Streak" width = 70% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancamilojc&bg_color=*&color=ffffff&line=00ff87&point=00ff87&area_color=00ff87&area=true&hide_border=true&custom_title=Gráfico%20de%20Commits%20GitHub" alt="GitHub Commits Graph" width = 90% />
 </a>	
